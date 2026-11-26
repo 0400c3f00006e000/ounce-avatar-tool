@@ -4,6 +4,8 @@
 
 Simple tool to change the avatar of a profile on your Switch 2 to a JPG from your SD card.
 
+![example screenshot](screenshot.png)
+
 > [!NOTE]
 > Your icon may not show up properly in all places until you reboot your Switch 2. Additionally it will not show up in certain places including the user page but I do plan on fixing this at some point.
 
